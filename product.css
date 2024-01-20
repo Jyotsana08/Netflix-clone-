@@ -1,0 +1,59 @@
+
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 5;
+  padding: 4;
+  box-sizing: border-box;
+  
+  
+}
+
+
+header {
+  background-color: #333;
+  color: red;
+  padding: 5px;
+  text-align: center;
+}
+
+main {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+}
+
+.product-info {
+  text-align: center;
+}
+
+.product-info img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.product-info h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.product-info p {
+  margin-bottom: 15px;
+}
+
+.cta-btn {
+  background-color: #4CAF50;
+  color: #fff;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+footer {
+  background-color: grey;
+  color: black ;
+  padding: 6px;
+  text-align: center;
+}
